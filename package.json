@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patronusv/js-teamproject-olx.git"
+    "url": "git+https://dmytrolukianenko.github.io/js-teamproject-olx.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patronusv/js-teamproject-olx/issues"
+    "url": "https://dmytrolukianenko.github.io/js-teamproject-olx/issues"
   },
-  "homepage": "https://github.com/patronusv/js-teamproject-olx.git",
+  "homepage": "https://dmytrolukianenko.github.io/js-teamproject-olx.git",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
